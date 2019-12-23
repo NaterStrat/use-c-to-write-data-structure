@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/C C++/C++/list find number/add or delete data.h
+create list.h
+D:/C C++/C++/list find number/create list.h
+
+D:/C C++/C++/list find number/create list.h
+stdlib.h
+-
+
+D:/C C++/C++/list find number/main.c
+stdio.h
+-
+create list.h
+D:/C C++/C++/list find number/create list.h
+add or delete data.h
+D:/C C++/C++/list find number/add or delete data.h
+
